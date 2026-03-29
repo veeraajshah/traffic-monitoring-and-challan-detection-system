@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+node_modules/
+dist/
+backend/app/logs/detections.csv
+backend/app/logs/detections.json
+backend/app/snapshots/*.jpg

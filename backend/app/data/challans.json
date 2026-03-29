@@ -1,0 +1,44 @@
+[
+  {
+    "plate": "MH12AB1234",
+    "status": "Pending Challan",
+    "fine_amount": 2500,
+    "violation_type": "Signal Jump",
+    "violation_date": "2026-03-10"
+  },
+  {
+    "plate": "DL01CD4321",
+    "status": "Pending Challan",
+    "fine_amount": 4000,
+    "violation_type": "Overspeeding",
+    "violation_date": "2026-03-18"
+  },
+  {
+    "plate": "KA05EF9087",
+    "status": "Pending Challan",
+    "fine_amount": 1500,
+    "violation_type": "Helmet Violation",
+    "violation_date": "2026-03-21"
+  },
+  {
+    "plate": "GJ01GH7788",
+    "status": "No Challan",
+    "fine_amount": 0,
+    "violation_type": "None",
+    "violation_date": null
+  },
+  {
+    "plate": "RJ14JK5544",
+    "status": "Pending Challan",
+    "fine_amount": 3000,
+    "violation_type": "Wrong Lane",
+    "violation_date": "2026-03-24"
+  },
+  {
+    "plate": "TN09LM2211",
+    "status": "No Challan",
+    "fine_amount": 0,
+    "violation_type": "None",
+    "violation_date": null
+  }
+]
